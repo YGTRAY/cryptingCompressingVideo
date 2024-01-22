@@ -27,7 +27,7 @@ This repository contains a Python application for compressing and encrypting vid
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/YGTRAY/cryptingCompressingVideo.git
     ```
 
 
