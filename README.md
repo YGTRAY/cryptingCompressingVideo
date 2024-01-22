@@ -66,7 +66,7 @@ Encrypt each compressed frame using the Advanced Encryption Standard (AES) algor
 
 Combine all the encrypted frames into a single encrypted video file .
 
-#### 6. Decryption and Decompression
+#### 2. Decryption and Decompression
 
 To retrieve the original video:
 
