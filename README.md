@@ -44,7 +44,7 @@ This repository contains a Python application for compressing and encrypting vid
 
 The process of compressing and encrypting videos involves the following steps:
 
-### 1.Decryption and Decompression
+### 1.Encryption and Compression
 
 #### a. Input Video
 
