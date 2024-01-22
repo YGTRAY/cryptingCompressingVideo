@@ -34,7 +34,7 @@ This repository contains a Python application for compressing and encrypting vid
 ## Usage
 
 
-3. **Adjust Parameters:**
+1. **Adjust Parameters:**
 
     Modify the script files or parameters to customize compression and encryption settings.
 
